@@ -1,0 +1,11 @@
+.deg30{
+
+background-color: #1dce0a;
+width: 100px;
+height: 100px;
+transform: rotatez(30deg)  translateX(10%);
+transform-origin: 50px 150px;
+}
+.pading{
+  padding: 30px; ;
+}

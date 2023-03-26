@@ -1,0 +1,24 @@
+.container{
+  margin: 10px 20px 100px;
+
+}
+.block{
+  padding: 30px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+  background-color: aqua;
+}
+
+
+.block:hover{
+background-color: #ebff35;
+}
+.block{
+  transition:  background-color 3s 2s;
+  или 
+  /* transition-duration: 3s;
+  transition-property: background-color;
+  transition-delay: 2s;*/}

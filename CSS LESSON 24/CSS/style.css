@@ -1,0 +1,26 @@
+.container__block{
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  
+}
+.container{
+  margin:0 auto;
+  padding: 0px 50px 100px 50%;
+  max-width: 1000px;
+  height: 100%;
+  border: 10px solid #d21212;
+  display: flex;
+}
+.container__block{
+  /* height: 300px; */
+  width: 260px;
+  /* max-width: 200px; */
+  height: 450px;;
+  border-radius: 10px;
+  box-shadow: inset 0 0 20px rgba(245, 7, 225, 0.842);
+  position:   fixed;
+
+}
+
+

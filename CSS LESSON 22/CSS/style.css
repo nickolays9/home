@@ -1,0 +1,14 @@
+.content__p1 {
+  padding: 25px 25px 0px 25px;
+}
+
+.content__p2 {
+  max-height: 100px;
+  /* display: block; */
+  overflow: auto;
+  /* height: 50px; */
+  background-color: #1fe328d3;
+
+
+}
+
